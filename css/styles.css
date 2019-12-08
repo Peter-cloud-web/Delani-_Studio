@@ -104,3 +104,92 @@ col-3 img{
 	font-family: 'Gupter', serif;
     font-family: 'Baskervville', serif;
 }
+textarea {
+  opacity:0.1;
+  width: 50%;
+  height: 200px;
+  padding: 12px 20px;`
+  font-size: 16px;
+  color: black;
+  border: 2px solid black;
+  resize: none;
+  padding-bottom: 30px;
+
+}
+.name{
+	opacity:0.1;
+	width: 35%;
+	color: black;
+	font-size: 12px;
+	border: 3px solid black;
+
+}
+.email{
+	opacity:0.1;
+	width: 35%;
+	color:black;
+	font-size: 12px;
+	border: 3px solid black;
+}
+.textbox{
+	padding-bottom: 50px;
+}
+.social-icons{
+	text-align: center;
+	padding-top: 60px;
+}
+.ending{
+	font-size: 15px;
+	font-weight: bolder;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#textblock1{
+  position: absolute;
+  bottom: 100px;
+  height: 50%;
+  right: 5px;
+  left: 15px;
+  background-color:rgba(0,3,14,0.5);
+  font-weight: bolder;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+};
+
+button{
+	background-color: blue;
+	border: 2px solid black;
+	color: whitesmoke;
+	padding: 1em 1.5em;
+	text-align: center;
+	text-decoration: none;
+	font-size: 1em;
+	font-weight: bolder;
+	display: inline-block;
+	width: 22%; 
+}
+#p1-show{
+	display: none;
+}
+#p2-show{
+	display: none;
+}
+#p3-show{
+    display: none;
+}
+#hide-p1:hover{
+	text-decoration: underline;
+}
+#pop-up{
+	display: none;
+	font-size: 15px;
+	font-weight: bolder;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-family: 'Gupter', serif;
+    font-family: 'Baskervville', serif;
+}
+
+
