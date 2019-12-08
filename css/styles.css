@@ -76,3 +76,31 @@ services-sec{
 	font-family: 'Gupter', serif;
     font-family: 'Baskervville', serif;
 }
+col-3 img{
+	grid-row-gap: 10%;
+	vertical-align: middle;
+	flex: 10%;
+	padding-top:8%;
+	padding-right:20%;
+}
+.row img{
+   grid-row-gap: 10%;
+}
+
+.section5{
+	padding-top: 35px;
+}
+.contact{
+	text-align: center;
+	background: url(c_image.jpg);
+	color: white;
+
+}
+.contact h6{
+	font-size: 18px;
+	font-weight: bolder;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-family: 'Gupter', serif;
+    font-family: 'Baskervville', serif;
+}
