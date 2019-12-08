@@ -24,3 +24,9 @@ $(document).ready(function(){
     $("img#img3-hide").show();
   });
 });
+$(document).ready(function(){
+  $('#submit').click(function(){
+    $("p#pop-up").show();
+    event.preventDefault();
+  });
+});
