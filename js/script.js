@@ -30,3 +30,14 @@ $(document).ready(function(){
     event.preventDefault();
   });
 });
+$(document).ready(function() {
+    $(".textbox form").submit(function(event) {
+        var NameInput = $("input#fname").val();
+        var emailInput = $("input#email").val();
+        $(".fname").append(NameInput);
+        $(".email").append(emailInput);
+        $("#pop-up").show();
+
+        event.preventDefault();
+    });
+});
