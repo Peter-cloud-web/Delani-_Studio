@@ -44,6 +44,13 @@ services-sec{
 	background-size: cover;
 	color: white;
 }
+.services-sec{
+	text-align: center;
+	padding-top: 20px;
+	background: url(s_image.jpg);
+	background-size: cover;
+	color: white;
+}
 .services-sec h3{
 	padding-top: 25px;
 	font-size: 30px;
@@ -76,16 +83,26 @@ services-sec{
 	font-family: 'Gupter', serif;
     font-family: 'Baskervville', serif;
 }
-col-3 img{
-	grid-row-gap: 10%;
-	vertical-align: middle;
-	flex: 10%;
-	padding-top:8%;
-	padding-right:20%;
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
-.row img{
-   grid-row-gap: 10%;
+
+/* Create two equal columns that sits next to each other */
+.col-3 {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
 }
+
+.col-3 img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
 
 .section5{
 	padding-top: 35px;
@@ -147,16 +164,87 @@ textarea {
 }
 #textblock1{
   position: absolute;
-  bottom: 100px;
+  bottom: 80px;
   height: 50%;
   right: 5px;
   left: 15px;
   background-color:rgba(0,3,14,0.5);
   font-weight: bolder;
   color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-};
+  
+}
+#textblock2{
+  background-color:rgba(0,3,14,0.5);
+  position: absolute;
+  bottom: 100px;
+  height: 50%;
+  right: 5px;
+  left: 15px;
+  color: white;
+  font-weight: bolder;
+}
+#textblock3{
+  background-color:rgba(0,3,14,0.5);
+  position: absolute;
+  bottom: 100px;
+  height: 50%;
+  right: 5px;
+  left: 15px;
+  color: white;
+  font-weight: bolder;
+}
+#textblock4{
+  background-color:rgba(0,3,14,0.5);
+  position: absolute;
+  bottom: 100px;
+  height: 50%;
+  right: 5px;
+  left: 15px;
+  color: white;
+  font-weight: bolder;
+}
+/*.textblock5{
+  background-color:rgba(0,3,14,0.5);
+  position: absolute;
+  bottom: 100px;
+  height: 50%;*/
+  /*right: 5px;
+  left: 15px;
+  color: white;
+  font-weight: bolder;
+}*/
+/*.textblock6{
+  /*background-color:rgba(0,3,14,0.5);
+  position: absolute;
+  bottom: 100px;
+  height: 50%;
+  right: 5px;
+  left: 15px;
+  color: white;
+  font-weight: bolder;*/
+}
+/*x.textblock7{
+  background-color:rgba(0,3,14,0.5);
+  position: absolute;
+  bottom: 100px;
+  height: 50%;
+  right: 5px;
+  left: 15px;
+  color: white;
+  font-weight: bolder;
+}
+.textblock8{
+  background-color:rgba(0,3,14,0.5);
+  position: absolute;
+  bottom: 100px;
+  height: 50%;
+  right: 5px;
+  left: 15px;
+  color: white;
+  font-weight: bolder;
+}*/
+*/
+
 
 button{
 	background-color: blue;
