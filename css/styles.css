@@ -80,6 +80,8 @@ services-sec{
 	grid-column-gap:20px; 
 	padding-right: left;
 	margin: 0;
+	flex-direction: row;
+	flex-wrap: wrap;
 
 }
 .section3 h4{
@@ -200,11 +202,11 @@ services-sec{
 	font-family: 'Gupter', serif;
     font-family: 'Baskervville', serif;
 }
-.img1{
-   background-color: rgba(0,0,0,0.5);
+.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8{
+   background-color: rgba(255,255,255,0.5);
    position: relative; 
    width: 100%; 
-   color: white;
+   color:black;
    position: absolute; 
    top: 100px; 
    bottom: 100px;
@@ -216,144 +218,16 @@ services-sec{
    padding-left: 50px;
    padding-bottom: 50px;
    padding-top: 50px;
-}
-.img2{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
-.img3{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
-.img4{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
-.img5{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
-.img5{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
-.img6{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
-.img7{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
-.img8{
-   background-color: rgba(0,0,0,0.5);
-   position: relative; 
-   width: 100%; 
-   color: white;
-   position: absolute; 
-   top: 100px; 
-   bottom: 100px;
-   left: 0; 
-   width: 70%; 
-   height:200px;
-   font-weight: bolder;
-   font-size: 15px;
-   padding-left: 50px;
-   padding-bottom: 50px;
-   padding-top: 50px;
-}
+   display: none;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Cardo', serif;
+    font-family: 'Lobster Two', cursive;
 
+
+
+
+}
 
 
 
