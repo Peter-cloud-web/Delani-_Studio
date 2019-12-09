@@ -201,10 +201,11 @@ services-sec{
     font-family: 'Baskervville', serif;
 }
 .img1{
-	background-color: rgba(0,0,0,0.5);
-	position: relative; 
-    width: 100%; 
-    position: absolute; 
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
    top: 100px; 
    bottom: 100px;
    left: 0; 
@@ -216,5 +217,144 @@ services-sec{
    padding-bottom: 50px;
    padding-top: 50px;
 }
+.img2{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.img3{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.img4{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.img5{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.img5{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.img6{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.img7{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+.img8{
+   background-color: rgba(0,0,0,0.5);
+   position: relative; 
+   width: 100%; 
+   color: white;
+   position: absolute; 
+   top: 100px; 
+   bottom: 100px;
+   left: 0; 
+   width: 70%; 
+   height:200px;
+   font-weight: bolder;
+   font-size: 15px;
+   padding-left: 50px;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+
+
+
 
 
