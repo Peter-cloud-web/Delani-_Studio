@@ -26,8 +26,8 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
   $('#submit').click(function(){
-    alert("SUBMITTED!!  We have received your message.Thank you for reaching out to us.")
-   ;
+    var user = document.getElementById("fname").value;
+    alert("SUBMITTED!!  Thank you "+user+" We have received your message.Thank you for reaching out to us.");
   });
 });
 $(document).ready(function() {
