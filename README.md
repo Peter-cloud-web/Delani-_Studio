@@ -15,6 +15,9 @@ This webpage demonstrates the use of hover effect on images by use of jQuery, us
 **Check for empty form**-*Submit(Input)* - Alert for no entry.
 **Confirm successful submission**-*Submit(Click)* - Toast a success Message.
 
+**GPA CODEBEAT COMPETENCY GRADING
+[![codebeat badge](https://codebeat.co/badges/9e69781d-22c5-4b32-b4d8-29d46a04f088)](https://codebeat.co/projects/github-com-peter-cloud-web-delani-_studio-master)
+
 
 
 
